@@ -2,7 +2,7 @@
 %global rlibdir  %{_datadir}/R/library
 
 Name:             R-%{packname}
-Version:          0.6
+Version:          0.7
 Release:          2
 Summary:          Read and Write ESRI Shapefiles
 Group:            Sciences/Mathematics
