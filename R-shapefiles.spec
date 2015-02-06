@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.7
-Release:          2
+Release:          3
 Summary:          Read and Write ESRI Shapefiles
 Group:            Sciences/Mathematics
 License:          GPL
